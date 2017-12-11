@@ -26,11 +26,10 @@ button{
     border: 2px solid;
     font-weight:bold;
 	background-color: white;
-	font-size:.75em;
-    padding:.70em 1.3em;
-    margin-bottom:.85em;
-	width: 5vw; 
+	width: 7vw; 
 	color: black;
+	padding: 10px;
+	margin-left: 4vw;
 	
 }
 
@@ -97,13 +96,23 @@ margin:0;
 }
 
 #commentary {
-	float: left;
 	font-weight: bold;
-	width: 100%;
-    padding: 50px 0;
+	width: 15%;
+    padding: 25px 0;
     text-align: center;
     background-color: white;
-    margin-top: 20px;
+    margin-top: 1vh;
+	color: black;
+	border: 2px solid; 
+}
+
+#commentary1 {
+	font-weight: bold;
+	width: 15%;
+    padding: 25px 0;
+    text-align: center;
+    background-color: white;
+    margin-top: 1vh;
 	color: black;
 	border: 2px solid; 
 }
@@ -120,5 +129,3 @@ margin:0;
 		width: 100%
 	}
 }
-
-
